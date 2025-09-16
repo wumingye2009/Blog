@@ -1,8 +1,24 @@
+# System files
 .DS_Store
 Thumbs.db
+
+# Hexo cache/database
 db.json
+
+# Log files
 *.log
+
+# Node.js dependencies
 node_modules/
+
+# Hexo generated static site
 public/
+
+# Hexo deploy temp
 .deploy*/
+
+# Ignore blog posts
+source/_posts/*
+
+# Optional: your custom config
 _multiconfig.yml

@@ -13,6 +13,7 @@ nav:
   # Navigation bar logo image
   logo:
   display_title: true
+  display_post_title: true
   # Whether to fix navigation bar
   fixed: false
 
@@ -65,7 +66,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: /Blog/img/mountain.jpg
+index_img: /img/mountain.jpg
 
 # The banner image of archive page
 archive_img:
