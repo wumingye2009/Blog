@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/wumingye2009/Blog.git
-  branch: main
+  branch: blog-pubulish
