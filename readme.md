@@ -28,14 +28,13 @@ Myblog/
 │   └── butterfly/            # Butterfly theme (added as a git submodule)
 └── public/                   # Generated static files (auto-created by Hexo)
 
-🚀 Deployment
+## 🚀 Deployment
 
 - Generate static files:
 
 ```bash
 hexo clean && hexo g
 ```
-
 
 - Deploy to GitHub Pages:
 
