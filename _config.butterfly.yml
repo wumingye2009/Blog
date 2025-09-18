@@ -15,7 +15,7 @@ nav:
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
-  fixed: false
+  fixed: true
 
 menu:
   Home: / || fas fa-home
@@ -68,7 +68,7 @@ default_top_img:
 # The banner image of index page
 index_img: /img/mountain.jpg
 
-# The banner image of archive page
+# The banner image of archive pagemountain
 archive_img:
 
 # Note: tag page, not tags page
@@ -144,7 +144,7 @@ post_meta:
 # The position of site info, eg: 300px/300em/300rem/10%
 index_site_info_top:
 # The height of top_img, eg: 300px/300em/300rem
-index_top_img_height:
+index_top_img_height: 
 
 # The subtitle on homepage
 subtitle:
@@ -181,7 +181,7 @@ index_layout: 3
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 3
+  method: false
   # If you set method to 2 or 3, the length need to config
   length: 500
 
